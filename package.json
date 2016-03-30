@@ -1,0 +1,27 @@
+{
+  "name": "react-ssr-perf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lostthetrail/react-ssr-perf.git"
+  },
+  "author": "Mark Reynolds",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lostthetrail/react-ssr-perf/issues"
+  },
+  "homepage": "https://github.com/lostthetrail/react-ssr-perf#readme",
+  "dependencies": {
+    "babel-preset-react": "^6.5.0",
+    "babel-register": "^6.7.2",
+    "express": "^4.13.4",
+    "react": "^0.14.8",
+    "react-addons-perf": "^0.14.8",
+    "react-dom": "^0.14.8"
+  }
+}
